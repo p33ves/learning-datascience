@@ -40,6 +40,7 @@ pandocfilters==1.4.2
 parso==0.7.1
 pickleshare==0.7.5
 Pillow==7.2.0
+plotsettings==1.0.4.post2
 poyo==0.5.0
 prettytable==0.7.2
 prometheus-client==0.8.0
